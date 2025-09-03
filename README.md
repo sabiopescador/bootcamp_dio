@@ -22,12 +22,21 @@ git push -u origin main
 ```
 git init
 git clone https://github.com/sabiopescador/bootcamp_dio.git
+
 ```
+---
+#
+**MATERIAL DE APOIO:** 
+
+[**DOCUMENTAÇÃO MARKDOWN**](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) VEJA TAMBÉM [**EDIÇÃO EM TEMPO REAL**](https://readme.so/pt)
+
+[**REPOSITÓRIO ELIDIANA ANDRADE**](https://github.com/elidianaandrade/git-github-learning-quest?tab=readme-ov-file)
+
+[**GITHUB QUICKSTART**](https://github.com/digitalinnovationone/github-quickstart)
+
+[**GITBOOK FUNDAMENTOS DO GITHUB**](https://aline-antunes.gitbook.io/formacao-fundamentos-github)
+
+[**DOCUMENTAÇÃO COMPLETA DO GITHUB**](https://docs.github.com/pt)
 
 ---
 
-[DOCUMENTAÇÃO MARKDOWN](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) VEJA TAMBÉM [EDIÇÃO EM TEMPO REAL](https://readme.so/pt)
-
----
-
-MATERIAL DE APOIO [ELIDIANA ANDRADE](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main)
