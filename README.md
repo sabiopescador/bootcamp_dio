@@ -1,6 +1,6 @@
 # bootcamp_dio
 
-## AQUI VAI OS COMANDO E INSTRUÇÕES DO BOOTCAMP DE ANÁLISE DE DADOS DA DIO:
+## AQUI VAI OS COMANDOS E INSTRUÇÕES DO BOOTCAMP DE ANÁLISE DE DADOS DA DIO:
 
 ### create a new repository on the command line
 - echo "# bootcamp_dio" >> README.md
