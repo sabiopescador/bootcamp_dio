@@ -15,3 +15,10 @@
 - git remote add origin https://github.com/sabiopescador/bootcamp_dio.git
 - git branch -M main
 - git push -u origin main
+
+---
+
+[GUIA MARKDOWN](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) PARA APRENDER
+
+---
+
